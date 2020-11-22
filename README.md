@@ -1,4 +1,4 @@
-# autoclicker
+# AutoClicker
 An autoclicker written in Visual Basic Scrpit (VBS)
 
 All you need to do is right click the StartClicker.vbs -> Edit
